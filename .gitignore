@@ -1,0 +1,11 @@
+# Dependências do Front-end
+node_modules/
+dist/
+
+# Dependências e cache do Back-end
+venv/
+__pycache__/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
